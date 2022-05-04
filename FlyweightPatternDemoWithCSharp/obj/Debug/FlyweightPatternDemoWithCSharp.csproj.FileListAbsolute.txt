@@ -1,0 +1,7 @@
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FlyweightPatternDemoWithCSharp\bin\Debug\FlyweightPatternDemoWithCSharp.exe.config
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FlyweightPatternDemoWithCSharp\bin\Debug\FlyweightPatternDemoWithCSharp.exe
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FlyweightPatternDemoWithCSharp\bin\Debug\FlyweightPatternDemoWithCSharp.pdb
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FlyweightPatternDemoWithCSharp\obj\Debug\FlyweightPatternDemoWithCSharp.csproj.AssemblyReference.cache
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FlyweightPatternDemoWithCSharp\obj\Debug\FlyweightPatternDemoWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FlyweightPatternDemoWithCSharp\obj\Debug\FlyweightPatternDemoWithCSharp.exe
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FlyweightPatternDemoWithCSharp\obj\Debug\FlyweightPatternDemoWithCSharp.pdb

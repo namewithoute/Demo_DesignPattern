@@ -1,0 +1,6 @@
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FacadePatternDemoWithCSharp\bin\Debug\FacadePatternDemoWithCSharp.exe.config
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FacadePatternDemoWithCSharp\bin\Debug\FacadePatternDemoWithCSharp.exe
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FacadePatternDemoWithCSharp\bin\Debug\FacadePatternDemoWithCSharp.pdb
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FacadePatternDemoWithCSharp\obj\Debug\FacadePatternDemoWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FacadePatternDemoWithCSharp\obj\Debug\FacadePatternDemoWithCSharp.exe
+C:\Users\LOVE\Desktop\MTK_REPORT\source_code_example\FacadePatternDemoWithCSharp\obj\Debug\FacadePatternDemoWithCSharp.pdb
